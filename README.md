@@ -23,6 +23,7 @@ Image of the example above.
 <br>
 One of the built-in examples (matlib_fact command).
 ![Second Image](https://upload.livaco.dev/u/p02SrKybg8.png)
+<br>
 Same image as above, but with Dark Mode enabled.
 ![Third Image](https://upload.livaco.dev/u/6aw2SfAchZ.png)
 <br>
