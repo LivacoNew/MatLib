@@ -15,6 +15,18 @@ MatLib.Text(frame, frame:GetWide() * 0.1, frame:GetTall() * 0.2, "This is an exa
 ```
 It's about as easy as that. If you need any more help, you can view cl_example.lua and get more insight into it.
 <br>
+## Images 
+Here's some images of how the UI looks.
+<br><br>
+Image of the example above.
+![First Image](https://upload.livaco.dev/u/uK1NWk2c5i.png)
+<br>
+One of the built-in examples (matlib_fact command).
+![Second Image](https://upload.livaco.dev/u/p02SrKybg8.png)
+<br>
+## Can I Use this?
+Anyone is free to use this. If your re-distributing it (In an addon per-say), please credit me. You can also use this for Gmodstore/Paid addons if you so wish.
+<br>
 ## Credits
 If anyone choses to contribute, you will also be listed here.
 <br><br>
