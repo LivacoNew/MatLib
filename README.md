@@ -23,6 +23,8 @@ Image of the example above.
 <br>
 One of the built-in examples (matlib_fact command).
 ![Second Image](https://upload.livaco.dev/u/p02SrKybg8.png)
+Same image as above, but with Dark Mode enabled.
+![Third Image](https://upload.livaco.dev/u/6aw2SfAchZ.png)
 <br>
 ## Can I Use this?
 Anyone is free to use this. If your re-distributing it (In an addon per-say), please credit me. You can also use this for Gmodstore/Paid addons if you so wish.
