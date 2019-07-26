@@ -1,5 +1,5 @@
 # MatLib
-MatLib is a simple and easy to use UI Library that allows you to make Material VGUIs easialy and hassle free.
+MatLib is a simple and easy to use UI Library that allows you to make Material VGUIs easily and hassle free.
 <br>
 ## So, what can I do with this?
 You can create your entire VGUI, but instead of the usual 200-300 lines you might have, you might only need about 30. MatLib allows you to make almost everything with a simple function, and also allows you to change colors, ect.
@@ -28,10 +28,10 @@ Same image as above, but with Dark Mode enabled.
 ![Third Image](https://upload.livaco.dev/u/6aw2SfAchZ.png)
 <br>
 ## Can I Use this?
-Anyone is free to use this. If your re-distributing it (In an addon per-say), please credit me. You can also use this for Gmodstore/Paid addons if you so wish.
+Anyone is free to use this. If you're re-distributing it (In an addon per-say), please credit me. You can also use this for Gmodstore/Paid addons if you so wish.
 <br>
 ## Credits
-If anyone choses to contribute, you will also be listed here.
+If anyone chooses to contribute, you will also be listed here.
 <br><br>
 - [Livaco](https://github.com/LivacoNew) for actually doing it.
 - [Owain](https://github.com/OwjoTheGreat) for the idea of it.
